@@ -761,6 +761,7 @@ main {
 }
 .intro__titulo {
   font-size: 50px;
+  line-height: 60px;
 }
 .intro__autor {
   width: 150px;
