@@ -1,5 +1,5 @@
 # Platzi_Games
 
-##Visit:
+## Visit:
 
-*https://danielgalaning.github.io/Platzi_Games/html/articulo.html
+* https://danielgalaning.github.io/Platzi_Games/html/articulo.html
